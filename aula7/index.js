@@ -17,3 +17,4 @@ resultadoTriplicado = resultadoTriplicado + 5;
 console.log(resultado);
 console.log(resultadoDuplicado);
 console.log(resultadoTriplicado);
+console.log(typeof primeiroNumero)

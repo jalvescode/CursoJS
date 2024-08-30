@@ -10,9 +10,9 @@ const hora = 90;
     console.log('Olá')
 } */
 
-const tenhoGrana = null;
+const tenhoGrana = 10;
 
-if (tenhoGrana){
+if (tenhoGrana === 10){
     console.log('Vou sair de casa');
 } else{
     console.log('Não vou sair de casa')

@@ -62,3 +62,10 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.pFalse{
+  background-color: red;
+}
+.pTrue{
+  background-color: green;
+}

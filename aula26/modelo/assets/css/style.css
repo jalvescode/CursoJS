@@ -25,6 +25,12 @@ body {
   padding: 20px;
   border-radius: 10px;
 }
+.containerDiv{
+  display: flex;
+}
+.containerDiv div{
+  margin: 0px 20px;
+}
 
 form input, form label, form button {
   display: block;

@@ -3,4 +3,7 @@
 const pontuacaoUsuario = 100;
 const nivelUsuario = pontuacaoUsuario >= 1000 ? 'VIP' : 'Normal';
 
-console.log(nivelUsuario)
+const corUsuario = 'Azul';
+const corPadrao = corUsuario || 'Preta';
+
+console.log(nivelUsuario, corPadrao)
